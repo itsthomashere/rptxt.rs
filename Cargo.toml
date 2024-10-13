@@ -1,0 +1,8 @@
+[package]
+name = "rtxt-rs"
+version = "0.1.0"
+description = "Copy-on-write Rope data structure. Inspired by Zedotdev"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
